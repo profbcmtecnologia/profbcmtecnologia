@@ -1,4 +1,5 @@
 Boas vindas ao meu perfil 💙💙
+
 Meu nome é Bárbara C.
 
 Estou estudando na Alura e sou Professora de Tecnologia.
